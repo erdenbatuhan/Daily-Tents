@@ -1,2 +1,2 @@
-# DailyTents
-A game called DailyTents.
+# Daily Tents
+A game called Daily Tents.
